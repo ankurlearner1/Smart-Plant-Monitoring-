@@ -39,4 +39,4 @@ An IoT-based smart plant monitoring system using **ESP32**, **Soil Moisture Sens
    - 🚿 Pump Turned ON/OFF
 5. The ESP32 sends regular updates.
 
-
+![Smart Plant Monitoring](images/plant_monitor.png)
